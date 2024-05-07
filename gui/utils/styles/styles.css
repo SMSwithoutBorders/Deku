@@ -1,0 +1,79 @@
+
+#title-label {
+    font-weight: bold;
+}
+
+#nav-bar {
+    background-color: lightskyblue;
+}
+
+
+#center-box {
+    border: 1px solid darkblue;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+#center-box-modem {
+    border: 1px solid lightblue;
+    padding: 50px;
+    margin: 50px;
+}
+
+/* #box-info{
+    margin: 50px;
+    padding: 50px;
+    
+} */
+
+#box-info-header{
+    font-weight: 700;
+}
+
+label#modem-label {
+margin-left: 10px;
+}
+
+
+#sidebar{
+    background-color: darkblue;
+}
+
+#side_label{
+    color: white;
+    background-color: darkblue;
+    border: 1px solid darkblue;
+}
+
+.fab-button {
+    
+    border-radius: 50%;
+    background-color: darkblue;
+    border: none;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+#active{
+    color: lawngreen;
+
+}
+
+
+/* Send Messsage */
+#center-box-message {
+    border: 1px solid darkblue;
+    /* padding: 70px; */
+    margin: 10px;
+}
+
+
+#send_btn{
+    background-color: darkblue;
+}
+
+/* Incoming Message */
+#center-box-sms {
+    border: 1px solid darkblue;
+    /* padding: 70px; */
+    margin: 10px;
+}
