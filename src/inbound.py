@@ -20,6 +20,7 @@ from message_store import MessageStore
 def new_message_handler(message, sim_imsi) -> None:
     """
     """
+    logging.info("New message received 🎉")
     text, number, timestamp = message.new_received_message()
 
     try:
